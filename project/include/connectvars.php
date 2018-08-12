@@ -1,7 +1,7 @@
 <?php
   // Define database connection constants
-  define('DB_HOST', 'ashutoshindustry.com');
-  define('DB_USER', 'ashutosh_root');
-  define('DB_PASSWORD', '112358');
-  define('DB_NAME', 'ashutosh_onlinetesting');
+  define('DB_HOST', 'example.com');
+  define('DB_USER', 'example_user');
+  define('DB_PASSWORD', 'example password');
+  define('DB_NAME', 'example_database');
 ?>
